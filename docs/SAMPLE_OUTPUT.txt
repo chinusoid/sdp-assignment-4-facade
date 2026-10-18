@@ -1,0 +1,26 @@
+CAMPUS EQUIPMENT RENTAL | Facade Pattern
+
+--- Successful rental ---
+RENT-001 | Aida | Digital camera | 3 days | due 2026-10-21
+Fee: 4500.00 KZT | Deposit: 8000.00 KZT | Paid: 12500.00 KZT
+
+--- Equipment already rented ---
+Rental could not be completed: Equipment is unavailable: CAMERA
+
+--- Payment declined; reservation is released ---
+Rental could not be completed: Insufficient wallet balance for student ST1002
+
+--- The released projector can be rented ---
+RENT-002 | Aida | Portable projector | 2 days | due 2026-10-20
+Fee: 4000.00 KZT | Deposit: 7000.00 KZT | Paid: 11000.00 KZT
+
+--- Weekly rental with a 10% fee discount ---
+RENT-003 | Aida | Study laptop | 7 days | due 2026-10-25
+Fee: 15750.00 KZT | Deposit: 10000.00 KZT | Paid: 25750.00 KZT
+
+--- Inactive student ---
+Rental could not be completed: Student membership is inactive: ST1003
+
+--- Invalid duration ---
+Rental could not be completed: Rental duration must be between 1 and 14 days.
+
