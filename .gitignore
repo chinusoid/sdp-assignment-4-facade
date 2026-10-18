@@ -1,0 +1,5 @@
+/build/
+/.idea/
+*.iml
+*.class
+.DS_Store
